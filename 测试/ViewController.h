@@ -8,8 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+typedef void (^handleBackValue) (NSString *name);
+
 @interface ViewController : UIViewController
 
+@property (nonatomic, strong)handleBackValue handle;
 
 @end
 
