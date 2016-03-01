@@ -31,6 +31,7 @@
     }];
 //    UIAlertView *alert = [[UIAlertView alloc]initWithTitle:self.name message:self.name delegate:self cancelButtonTitle:@"canle" otherButtonTitles:@"sure", nil];
 //    [alert show];
+    // 啥情况，要密码了？
     
 }
 
